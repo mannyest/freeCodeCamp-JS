@@ -1,0 +1,84 @@
+/* freeCodeCamp */
+
+body{
+	font-family: 'Trebuchet MS';
+	color: whitesmoke;
+	background-image: url("https://www.pngmagic.com/product_images/green-color-background.jpg");
+	background-size: cover;
+	text-align: center;
+	font-weight: bold;
+}
+
+h1{
+	color: goldenrod;
+}
+
+h2 {
+	font-size: 50px;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+#message-el{
+	font-style: italic;
+	font: bold;
+}
+
+button {
+	border: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+	font-weight: bold;
+	width: 200px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+#increment-btn {
+	background: darkred;
+}
+
+#increment-btn {
+	background: darkgreen;
+}
+
+#save-btn{
+	background:darkblue;
+}
+
+#purchase-btn{
+	background:green;
+	border-color: black;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+#error {
+	color: red;
+}
+
+#start-btn{
+	color: #016f32;
+	width: 150px;
+	background: goldenrod;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+}
+
+#hitme-btn{
+	color: #016f32;
+	width: 150px;
+	background: goldenrod;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	border: none;
+	border-radius: 5px;
+}
